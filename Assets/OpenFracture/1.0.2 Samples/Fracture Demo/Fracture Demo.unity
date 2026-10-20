@@ -2837,7 +2837,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1967309252}
   m_Layer: 0
-  m_Name: GAME LOGIC
+  m_Name: SCENE LOGIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3077,5 +3077,5 @@ SceneRoots:
   - {fileID: 1999737198}
   - {fileID: 643887560}
   - {fileID: 250346665}
-  - {fileID: 1967309252}
   - {fileID: 1506839088}
+  - {fileID: 1967309252}
